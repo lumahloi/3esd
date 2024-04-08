@@ -1,0 +1,8 @@
+#include "PONTO.h"
+#include "QUADRADO.h"
+#include <stdio.h>
+#include <string.h>
+
+int main(){
+  return 0;
+}
